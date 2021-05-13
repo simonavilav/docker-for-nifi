@@ -1,0 +1,1 @@
+docker exec -it docker-for-nifi_db_1 mysql

@@ -1,0 +1,1 @@
+docker exec --user='root' -it docker-for-nifi_nifi_1 bash
