@@ -20,3 +20,6 @@ clean:
 
 webui:
 	./portainer.sh
+
+funbox:
+	./funbox.sh
