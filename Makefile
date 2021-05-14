@@ -17,3 +17,6 @@ stop:
 
 clean:
 	./clean_docker.sh
+
+webui:
+	./portainer.sh
